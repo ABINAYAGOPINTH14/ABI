@@ -1,5 +1,6 @@
 //datatypes
 console.log("DATA TYPES")
+console.log("PRIMITIVE DATA TYPES")
 
 //numbers
 var a = 10
@@ -29,6 +30,7 @@ console.log(d)
 var e = Symbol("symbol")
 console.log(e)
 
+console.log("NON-PRIMITIVE DATA TYPES")
 //non-primitive data types
 //array
 var arr = [1, 2, 3, 4, 5]
@@ -37,7 +39,7 @@ console.log(arr)
 
 //object
 var person = {
-    name: "John",
+    name: "DAISY",
     age: 30,
     isStudent: true
 }
