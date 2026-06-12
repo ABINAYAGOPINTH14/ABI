@@ -1,4 +1,4 @@
-//assignment
+//arithmetic
  var c = 10
  console.log(c+=5) //addition assignment
  console .log(c-=5) //subtraction assignment
