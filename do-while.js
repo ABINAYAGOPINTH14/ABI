@@ -1,7 +1,8 @@
 //do-while 
-let count = 6
+let count = 3
+
 do{
     console.log(count);
     count++
-} while(count <= 5)
+} while(count <= 10)
     console.log("outside do..while")
